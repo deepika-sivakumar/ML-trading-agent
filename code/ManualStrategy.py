@@ -18,10 +18,10 @@ import numpy as np
 class ManualStrategy(object):
 
     def __init__(self):
-        pass # move along
+        pass 
 
     def author(self):
-        return 'dsivakumar6'
+        return 'Deepika'
 
     def testPolicy(self,symbol = "JPM", sd=dt.datetime(2008,1,1), ed=dt.datetime(2009,12,31), sv = 100000):
         # Lookback window
