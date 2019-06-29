@@ -15,7 +15,7 @@ import marketsimcode as msim
 import numpy as np
 
 def author():
-    return 'dsivakumar6' # Georgia Tech username
+    return 'Deepika'
 
 if __name__=="__main__": 
     # Inputs
