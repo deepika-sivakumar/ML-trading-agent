@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 
 
 def author():
-    return 'dsivakumar6' # Georgia Tech username
+    return 'Deepika'
 
 if __name__=="__main__": 
     # Inputs
