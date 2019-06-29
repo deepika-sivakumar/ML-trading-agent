@@ -6,14 +6,14 @@ Created on Fri Mar 22 21:51:10 2019
 
 """
 """
-marketsimcode.py An improved version of your marketsim code that accepts a "trades" data frame (instead of a file). More info on the trades data frame below. It is OK not to submit this file if you have subsumed its functionality into one of your other required code files.
+marketsimcode.py An improved version of your marketsim code that accepts a "trades" data frame (instead of a file). More info on the trades data frame below. 
 """
 import pandas as pd 
 import numpy as np 
 from util import get_data, plot_data
 
 def author():
-    return 'dsivakumar6'
+    return 'Deepika'
 
 """
 Function to convert the df_trades to Orders
