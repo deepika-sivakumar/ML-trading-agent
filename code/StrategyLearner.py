@@ -13,7 +13,7 @@ import math
 class StrategyLearner(object):
 
     def author(self):
-        return 'dsivakumar6' # Georgia Tech username
+        return 'Deepika'
  
     # constructor 
     def __init__(self, verbose = False, impact=0.0): 
@@ -165,4 +165,4 @@ class StrategyLearner(object):
         return trades 
  
 if __name__=="__main__": 
-    print "One does not simply think up a strategy" 
+    print "Machine Learning Trading Agent" 
