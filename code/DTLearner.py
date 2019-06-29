@@ -19,7 +19,7 @@ class DTLearner(object):
         self.test_node_val = 0
 
     def author(self):
-        return 'dsivakumar6' # Georgia Tech username
+        return 'Deepika'
 
     def findBestFeature(self, dataX, dataY):
         # Calculate the correlation values between each factor in dataX & dataY
@@ -134,4 +134,4 @@ class DTLearner(object):
         return self.predictY
 
 if __name__=="__main__":
-    print "the secret clue is 'zzyzx'"
+    print "Decision Tree Learner"
