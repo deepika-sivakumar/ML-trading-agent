@@ -15,7 +15,7 @@ class RTLearner(DTLearner):
         DTLearner.__init__(self, leaf_size, verbose)
 
     def author(self):
-        return 'dsivakumar6' # Georgia Tech username
+        return 'Deepika'
 
     # To calculate the best feature random
     def findBestFeature(self, dataX, dataY):
