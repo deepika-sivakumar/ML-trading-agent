@@ -19,7 +19,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 def author():
-    return 'dsivakumar6'
+    return 'Deepika'
 
 """
 Function to Calculate the Simple Moving Average(SMA)
