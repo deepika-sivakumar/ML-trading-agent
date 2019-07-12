@@ -4,7 +4,7 @@
 To implement a trading agent using an ensemble(**Bootstrapping**) of **Random Forest Learners** that would learn a strategy using past stock price data and **generate stock orders** for each day and give a visualization of the growth of the Portfolio with those predictions. 
 
 ### Dataset: 
-Stock prices of various symbols from years 2000 – 2012 from the "UCI machine Learning Repository".
+Stock prices of various symbols from years 2000 – 2012.
 
 ### Solving the problem:
 * Framed the trading problem as a **Classification Problem** whether to classify the stock symbol as to BUY/SELL/DO_NOTHING for each particular day.
